@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?label=Dev.to&style=for-the-badge&url=https://dev.to/ashercarneiro)](https://dev.to/ashercarneiro)
 [![Twitter](https://img.shields.io/twitter/follow/AsherCarneiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAsherCarneiro&screen_name=AsherCarneiro)
 
+
 ## I'm a Student/Developer
 
 - 🔭 I’m currently working on <b>My Personal Website👨‍💻</b>.
@@ -26,6 +27,7 @@
 [<img align="left" alt="Asher | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
 [<img align="left" alt="Asher | LinkedIn" width="22px" src="https://www.pngrepo.com/png/303299/180/linkedin-icon-2-logo.png" />][linkedin]
 [<img align="left" alt="Asher | Instagram" width="22px" src="https://i.pinimg.com/originals/d2/e5/3e/d2e53ea31ec15e6a8129008563713de5.png" />][instagram]
+
 
 <br />
 
@@ -77,3 +79,5 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=AsherCarneiro&&show_icons=true&title_color=61E7C7&icon_color=BB1CA3&text_color=9E34B5&bg_color=192734">
+
+<a href="https://www.buymeacoffee.com/AsherCarneiro" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
