@@ -79,5 +79,3 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=AsherCarneiro&&show_icons=true&title_color=61E7C7&icon_color=BB1CA3&text_color=9E34B5&bg_color=192734">
-
-<a href="https://www.buymeacoffee.com/AsherCarneiro" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
