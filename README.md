@@ -19,7 +19,7 @@
 
 ### Favourite Song 🎧
 
-[<img src="https://i1.sndcdn.com/artworks-000482929971-v893zb-t500x500.jpg" alt="codeSTACKr Spotify Playing" width="200" height="200" />](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl)
+[<img src="https://vocalhunter.com/wp-content/uploads/2022/01/Charlie-Puth-Light-Switch.jpg" alt="fav song" width="150" height="150" />](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc)
 
 ### Connect with me:
 
