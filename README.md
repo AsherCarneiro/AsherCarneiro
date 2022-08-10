@@ -24,7 +24,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Asher | YouTube" width="22px" src="https://yt3.ggpht.com/ytc/AAUvwnjDwLJeWs_jcgoVvQpC7YZxWMwP-N__UH-98dxGyw=s900-c-k-c0x00ffffff-no-rj" />][youtube]
-[<img align="left" alt="Asher | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
+[<img align="left" alt="Asher | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
 [<img align="left" alt="Asher | LinkedIn" width="22px" src="https://www.pngrepo.com/png/303299/180/linkedin-icon-2-logo.png" />][linkedin]
 [<img align="left" alt="Asher | Instagram" width="22px" src="https://i.pinimg.com/originals/d2/e5/3e/d2e53ea31ec15e6a8129008563713de5.png" />][instagram]
 
