@@ -14,7 +14,7 @@
 - 📫 How to reach me: Twitter: <b>AsherCarneiro 🐤</b>
 - 😄 Pronouns:<b> He/Him👦</b>
 - ⚡ Fun fact: I listen to Music, like<b> 70% the Time🎵</b>
-- 🌠 2021 Goals: Contribute more to <b>open-source.</b>
+- 🌠 2022 Goals: Contribute more to <b>open-source.</b>
 
 
 ### Favourite Song 🎧
