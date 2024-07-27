@@ -1,4 +1,4 @@
 ### Hi there, I'm Asher 👋
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml1cTFlZHNyczB0aXR6NHhxaHViMGkwdTVuYzIyYmRmNGpzcndpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P1S16DQVoAGvAvFl4r/giphy.webp)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp6eWFkY2lqNnQzNm1jOGtoY21kZWV4bXNjajQyZHd2dzJ5b2MwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gFPxNhzEWdFCCRAqf0/200.webp)
 
